@@ -59,7 +59,7 @@ section {
 }
 #pf-img img {
   border: 1px solid #ccc;
-  border-radius: 1%;
+  border-radius: 100%;
   box-shadow: 5px 5px #eee;
 }
 
