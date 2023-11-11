@@ -36,7 +36,7 @@ header h1 {
 }
 
 header h2 {
-  font-size: 30em;
+  font-size: 10em;
   font-style: sans-serif;
 }
 /* 내용 부분 */
@@ -90,7 +90,7 @@ i {
 }
 
 #right p {
-  line-height: 2.2;
+  line-height: 3.3;
 }
 
 dt {
