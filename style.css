@@ -13,11 +13,11 @@ body {
 }
 
 #container {  
-  max-width: 1000px;
+  max-width: 960px;
   margin: 20px auto;
   padding: 2em;
   border: 1px solid #ccc;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255,255,255,0.8);
 }
 
 /* 헤더 부분 */
@@ -37,12 +37,12 @@ header h1 {
 
 header h2 {
   font-size: 1.2em;
-  font-style: 나눔 고딕;
+  font-style: italic;
 }
 /* 내용 부분 */
 main {
   display: grid;
-  grid-template-columns: 20% 60%;
+  grid-template-columns: 30% 70%;
   margin-top: 3em;
 }
 
@@ -54,8 +54,8 @@ section {
 /* 왼쪽, 프로필 이미지 부분 */
 
 #pf-img {
-  text-align: center ;
-  margin-bottom: 3em;
+  text-align: center;
+  margin-bottom: 2em;
 }
 #pf-img img {
   border: 1px solid #ccc;
