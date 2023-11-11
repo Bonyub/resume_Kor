@@ -8,12 +8,12 @@
 
 body {
   font-size: 14px;
-  background: white url('./bg.jpg') no-repeat fixed;
+  background: darkblue url('./bg.jpg') no-repeat fixed;
   background-size: cover;
 }
 
 #container {  
-  max-width: 1020px;
+  max-width: 960px;
   margin: 20px auto;
   padding: 2em;
   border: 1px solid #ccc;
@@ -36,7 +36,7 @@ header h1 {
 }
 
 header h2 {
-  font-size: 1.2em;
+  font-size: 30em;
   font-style: sans-serif;
 }
 /* 내용 부분 */
@@ -59,7 +59,7 @@ section {
 }
 #pf-img img {
   border: 1px solid #ccc;
-  border-radius: 1%;
+  border-radius: 50%;
   box-shadow: 5px 5px #eee;
 }
 
@@ -90,7 +90,7 @@ i {
 }
 
 #right p {
-  line-height: 3.3;
+  line-height: 2.2;
 }
 
 dt {
@@ -102,7 +102,7 @@ dd {
 }
 
 #base {
-  width:200%;
+  width:100%;
   background-color: #ddd;
 }
 .text {
